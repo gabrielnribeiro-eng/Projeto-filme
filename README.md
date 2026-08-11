@@ -15,3 +15,6 @@ HTML: Utilizada para criar e estruturar a página do filme. Visual Studio Code: 
 
 ## 📌 Breve descrição da página desenvolvida.
 A página desenvolvida apresenta informações sobre o filme escolhido, como título, imagem, sinopse e outras informações relevantes. O projeto busca criar uma página simples, organizada e visualmente agradável, utilizando HTML.
+
+## Site do filme
+http://127.0.0.1:5500/Projeto%20Filmes/index.html
